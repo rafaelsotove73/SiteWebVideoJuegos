@@ -16,24 +16,24 @@ La estructura del sitio web es la siguiente:
 museo-videojuegos/
 ├── index.html
 ├── videojuegos.html
-├── pac-man.html
-├── super-mario-bros.html
-├── resident-evil.html
-├── silent-hill.html
-├── metal-gear.html
-└── consolas-videojuegos.html
+├── PacMan.html
+├── SuperMarioBros.html
+├── ResidentEvil.html
+├── SilentHill.html
+├── Metalgear.html
+└── consolasvideojuegos.html
 
 
 ### Descripción de las Páginas
 
 1. [**index.html**](https://www.bing.com/search?form=SKPBOT&q=index.html): Página de inicio del museo con una introducción general y enlaces a las demás páginas.
 2. [**videojuegos.html**](https://www.bing.com/search?form=SKPBOT&q=videojuegos.html): Página que proporciona una visión general de la historia de los videojuegos.
-3. [**pac-man.html**](https://www.bing.com/search?form=SKPBOT&q=pac-man.html): Página dedicada a Pac-Man, con información sobre su historia y legado.
-4. [**super-mario-bros.html**](https://www.bing.com/search?form=SKPBOT&q=super-mario-bros.html): Página dedicada a Super Mario Bros, con detalles sobre su desarrollo y popularidad.
-5. [**resident-evil.html**](https://www.bing.com/search?form=SKPBOT&q=resident-evil.html): Página dedicada a Resident Evil, con información sobre su impacto en el género de terror.
-6. [**silent-hill.html**](https://www.bing.com/search?form=SKPBOT&q=silent-hill.html): Página dedicada a Silent Hill, destacando su atmósfera y narrativa.
-7. [**metal-gear.html**](https://www.bing.com/search?form=SKPBOT&q=metal-gear.html): Página dedicada a Metal Gear, con detalles sobre su creador y su influencia en los juegos de sigilo.
-8. [**consolas-videojuegos.html**](https://www.bing.com/search?form=SKPBOT&q=consolas-videojuegos.html): Página que contiene una tabla que relaciona diferentes consolas con los videojuegos disponibles para cada una.
+3. [**PacMan.html**](https://www.bing.com/search?form=SKPBOT&q=pac-man.html): Página dedicada a Pac-Man, con información sobre su historia y legado.
+4. [**SuperMarioBros.html**](https://www.bing.com/search?form=SKPBOT&q=super-mario-bros.html): Página dedicada a Super Mario Bros, con detalles sobre su desarrollo y popularidad.
+5. [**ResidentEvil.html**](https://www.bing.com/search?form=SKPBOT&q=resident-evil.html): Página dedicada a Resident Evil, con información sobre su impacto en el género de terror.
+6. [**SilentHill.html**](https://www.bing.com/search?form=SKPBOT&q=silent-hill.html): Página dedicada a Silent Hill, destacando su atmósfera y narrativa.
+7. [**metalgear.html**](https://www.bing.com/search?form=SKPBOT&q=metal-gear.html): Página dedicada a Metal Gear, con detalles sobre su creador y su influencia en los juegos de sigilo.
+8. [**consolasvideojuego.html**](https://www.bing.com/search?form=SKPBOT&q=consolas-videojuegos.html): Página que contiene una tabla que relaciona diferentes consolas con los videojuegos disponibles para cada una.
 
 ## Requisitos
 
