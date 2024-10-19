@@ -50,13 +50,11 @@ Para visualizar y editar este proyecto, necesitarás:
 ```sh
 git clone https://github.com/tu_usuario/museo-videojuegos.git
 
-1. 
-Navega a la carpeta del proyecto:
+1. Navega a la carpeta del proyecto:
 
 cd museo-videojuegos
 
-1. 
-Abre el archivo index.html en tu navegador para comenzar a explorar el sitio web.
+1. Abre el archivo index.html en tu navegador para comenzar a explorar el sitio web.
 
 Contribuciones
 ¡Las contribuciones son bienvenidas! Si tienes ideas para mejorar el sitio o agregar más contenido, no dudes en hacer un fork del repositorio y enviar un pull request.
@@ -67,4 +65,4 @@ Este proyecto está bajo la Licencia MIT. Consulta el archivo LICENSE para más 
 
 ¡Gracias por visitar el Museo de Videojuegos! Esperamos que disfrutes explorando la rica historia de los videojuegos. Si tienes alguna pregunta o sugerencia, no dudes en abrir un issue o contactarnos.
 ###############################################################################
-
+        
