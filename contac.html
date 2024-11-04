@@ -1,31 +1,57 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Contactanos</title>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Formulario</title>
 </head>
 <body style="margin: 20px">
-    <header>
-        <h2 align = "center">Contactanos</h2>
-    </header>
-    <nav>
-        <a href="index.html">Inicio</a>
-        &nbsp;
-        <a href="videojuegos.html">Video Juegos</a>
-        &nbsp;
-        <a href="videoconsolas.html">Consolas video Juegos</a>
-        &nbsp;
-        <a href="donde_estamos.html">Donde Estamos</a>
-        &nbsp;
-        <a href="contac.html">Contactanos</a>
-      </nav>
-      <hr>
-      <section>
-        <p align="justify">Estaremos muy felices de conversar, 
-            <strong>museo_uccam@ucccam.com</strong>, nuestro numero 625 24 58 78</p>
-      </section>
-    
-    
+<header>
+<h2 align="center">Formulario de Contacto</h2>
+</header>
+<nav>
+<a href="index.html">Inicio</a>
+
+<a href="videojuegos.html">Video Juegos</a>
+
+<a href="videoconsolas.html">Consolas Video Juegos</a>
+
+<a href="donde_estamos.html">Donde Estamos</a>
+
+<a href="contactanos.html">Contactanos</a>
+</nav>
+<hr>
+<section>
+<form action="" method="post">
+<fieldset>
+<legend>Información Personal</legend>
+<label for="name">Nombre:</label>
+<input type="text" id="name" name="name" required><br><br>
+<label for="email">Correo Electrónico:</label>
+<input type="email" id="email" name="email" required><br><br>
+<label for="phone">Teléfono:</label>
+<input type="tel" id="phone" name="phone"><br><br>
+<label for="dob">Fecha de Nacimiento:</label>
+<input type="date" id="dob" name="dob"><br><br>
+</fieldset>
+<fieldset>
+<legend>Preferencias</legend>
+<label for="game">Juego Favorito:</label>
+<input type="text" id="game" name="game"><br><br>
+<label for="console">Consola Favorita:</label>
+<select id="console" name="console">
+<option value="ps5">PS5</option>
+<option value="xbox">Xbox</option>
+<option value="switch">Nintendo Switch</option>
+</select><br><br>
+<label for="newsletter">Suscribirse al boletín:</label>
+<input type="checkbox" id="newsletter" name="newsletter"><br><br>
+</fieldset>
+<input type="submit" value="Enviar">
+</form>
+<br>
+<a href="mailto:museo_uccam@ucccam.com">Enviar un correo electrónico</a><br><br>
+<a href="descarga\HorarioActividades.zip" download>Descargar Horario de Actividades</a>
+</section>
 </body>
 </html>
